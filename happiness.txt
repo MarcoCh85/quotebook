@@ -8,4 +8,3 @@ quote 4: dopo aver creato su github
 
 quote 5: aggiunta da github per testare pull
 
-quote 6: aggiunta su ramo main da vscode
